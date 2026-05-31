@@ -10,7 +10,7 @@
 
 安卓版 APK：
 
-[下载属性资料库.apk](apk/属性资料库.apk)
+[下载属性资料库.apk](https://github.com/nizohannemanncq386-svg/Stats-library/releases/latest/download/Stats-library.apk)
 
 安装时如果手机提示“未知来源应用”，需要在系统设置里允许本次安装。安装后桌面显示名称为 **属性资料库**。
 
